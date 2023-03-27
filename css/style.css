@@ -92,7 +92,7 @@ header{
 .projects-item{
     overflow: hidden;
     border-bottom: 1px dashed #343434;
-    padding: 5px;
+    padding: 25px 0;
 }
 .projects-item img{
     float: left;
@@ -115,4 +115,9 @@ header{
 footer{
     background: #2F3061;
     color: #F7FFF7;
+}
+
+.contact-list{
+    list-style-type: none;
+    padding: 0;
 }
